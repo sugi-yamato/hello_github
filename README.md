@@ -1,0 +1,2 @@
+# hello_github
+GitHubへのアクセスに慣れるためのリポジトリ
